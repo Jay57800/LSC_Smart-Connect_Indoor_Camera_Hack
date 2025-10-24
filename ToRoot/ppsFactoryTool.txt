@@ -1,1 +1,2 @@
-module=wifi,,ssid=SSID,,password=PASSWORD,,
+module=wifi,,ssid=OpenWrt,,password=81c58509bc,,
+
